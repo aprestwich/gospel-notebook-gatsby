@@ -65,41 +65,11 @@
                     "omitted": false
                 },
                 {
-                    "id": "company",
-                    "name": "Company",
-                    "type": "Symbol",
-                    "localized": false,
-                    "required": true,
-                    "validations": [],
-                    "disabled": false,
-                    "omitted": false
-                },
-                {
                     "id": "shortBio",
                     "name": "Short Bio",
                     "type": "Text",
                     "localized": false,
                     "required": true,
-                    "validations": [],
-                    "disabled": false,
-                    "omitted": false
-                },
-                {
-                    "id": "email",
-                    "name": "Email",
-                    "type": "Symbol",
-                    "localized": false,
-                    "required": false,
-                    "validations": [],
-                    "disabled": false,
-                    "omitted": false
-                },
-                {
-                    "id": "phone",
-                    "name": "Phone",
-                    "type": "Symbol",
-                    "localized": false,
-                    "required": false,
                     "validations": [],
                     "disabled": false,
                     "omitted": false
@@ -306,22 +276,6 @@
                     "widgetId": "singleLine"
                 },
                 {
-                    "fieldId": "company",
-                    "widgetId": "singleLine"
-                },
-                {
-                    "fieldId": "shortBio",
-                    "widgetId": "markdown"
-                },
-                {
-                    "fieldId": "email",
-                    "widgetId": "singleLine"
-                },
-                {
-                    "fieldId": "phone",
-                    "widgetId": "singleLine"
-                },
-                {
                     "fieldId": "facebook",
                     "widgetId": "singleLine"
                 },
@@ -504,18 +458,6 @@
                 },
                 "title": {
                     "en-US": "Web Developer"
-                },
-                "company": {
-                    "en-US": "ACME"
-                },
-                "shortBio": {
-                    "en-US": "Research and recommendations for modern stack websites."
-                },
-                "email": {
-                    "en-US": "john@doe.com"
-                },
-                "phone": {
-                    "en-US": "0176 / 1234567"
                 },
                 "facebook": {
                     "en-US": "johndoe"
